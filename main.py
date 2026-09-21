@@ -1,2 +1,2 @@
 import openai
-print"hello"
+print("hello")
